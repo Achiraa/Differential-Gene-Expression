@@ -17,17 +17,29 @@ Gene Counts: Stromaltomato.csv
 ## 1. Load Libraries
 
 library(DESeq2)
+
 library(tidyverse)
+
 library(BiocGenerics)
+
 library(S4Vectors)
+
 library(stats4)
+
 library(ggplot2)
+
 library(ggrepel)
+
 library(EnhancedVolcano)
+
 library(gplots)
+
 library(ComplexHeatmap)
+
 library(circlize)
+
 library(RColorBrewer)
+
 library(cummeRbund)
 
 ## 2. Read Sample Info
