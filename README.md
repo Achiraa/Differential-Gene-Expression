@@ -106,3 +106,5 @@ write.csv(resultsort, file = "ALLstromaltomatoGenes.csv")
 significant_genes = resultsort[complete.cases(resultsort) & resultsort$pvalue < 0.05, ]
 
 write.csv(significant_genes, file = "Significant_tomato_genes.csv")
+
+
