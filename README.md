@@ -108,3 +108,17 @@ significant_genes = resultsort[complete.cases(resultsort) & resultsort$pvalue < 
 write.csv(significant_genes, file = "Significant_tomato_genes.csv")
 
 
+## Plots
+
+## PheatMap
+![Luminalheatmapfinal](https://github.com/Achiraa/Differential-Gene-Expression/assets/114616203/743e4623-a024-42b4-a780-1e8ae77cc0c6)
+
+## MA Plot
+![MAplot0 05](https://github.com/Achiraa/Differential-Gene-Expression/assets/114616203/b3a98eb1-67a8-41f4-b2c9-189fbe5680ad)
+
+## Volcano Plot
+![volcano](https://github.com/Achiraa/Differential-Gene-Expression/assets/114616203/2c247202-db2d-4616-8901-dcff77725f35)
+
+## Top DEGS 
+![top20DEGS](https://github.com/Achiraa/Differential-Gene-Expression/assets/114616203/99ff38de-0fdd-41e4-b2c3-d59b41079888)
+
