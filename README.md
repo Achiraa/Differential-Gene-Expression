@@ -122,3 +122,7 @@ write.csv(significant_genes, file = "Significant_tomato_genes.csv")
 ## Top DEGS 
 ![top20DEGS](https://github.com/Achiraa/Differential-Gene-Expression/assets/114616203/99ff38de-0fdd-41e4-b2c3-d59b41079888)
 
+## Waterfall Plot
+![Waterfall_BMP](https://github.com/Achiraa/Differential-Gene-Expression/assets/114616203/80269909-1b35-4d95-9a04-5d58ef7ab4e2)
+
+
